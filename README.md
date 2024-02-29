@@ -1,4 +1,4 @@
-### 👨‍💻 Software Enthusiast & Seasoned QA Engineer 👨‍🔬
+### 💻 Software Enthusiast & Seasoned QA Engineer 
 
 #### Experience:
 - 5 years of expertise in software testing
