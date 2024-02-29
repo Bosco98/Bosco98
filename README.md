@@ -1,4 +1,4 @@
-### 💻 Software Enthusiast & Seasoned QA Engineer 
+### 💻 Software Enthusiast & Full stack SDET
 
 #### Experience:
 - 5 years of expertise in software testing
