@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👨‍💻 Software Enthusiast & Seasoned QA Engineer 👨‍🔬
 
-<!--
-**Bosco98/Bosco98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Experience:
+- 5 years of expertise in software testing
+- Specialized in ad tech and big data domains
+- Proficient in functional and automated testing
+- Skilled in mentoring junior team members
+- Experienced in creating and managing sprint boards
 
-Here are some ideas to get you started:
+#### Notable Achievements:
+- 🛠️ Designed and automated sanity and regression suites with **Playwright**, **Selenium**, & **RestAssured**
+- 📊 Implemented reporting systems, including **Allure** and Custom reporting with **Firebase** as DB
+- 🖼️ Integrated visual regression with **blinkdiff.js**
+- 🛡️ Linked suites with CI/CD pipelines using **Jenkins** & **Docker**
+- 📱 Developed user-friendly operations apps with an **Express.js** dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Education:
+- 🎓 Bachelors & Masters in Information Technology
+- 📊 PG Diploma in Data Science
